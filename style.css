@@ -142,17 +142,22 @@ footer {
 }
 
 .side-pics {
-    -ms-flex: 50%;
-    flex: 1 1 50%;
-    padding: 0 4px;
+    line-height: 50px;
+    width: 63px;
+    text-align: center;
+    margin: 1em 0;
+    position:absolute;
+    top: 385px;
+    left: 450px;
 }
 
 .pumpkins {
-    width: 75px;
+    width: 63px;
     height: 50px;
-    
+    vertical-align: middle; 
+    padding-bottom: 25px;
 }
 
-.side-pics .pumpkins {
-  vertical-align: middle;
+#main-pumkin {
+    filter: grayscale(60%);
 }
