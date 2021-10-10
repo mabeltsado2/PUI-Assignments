@@ -59,7 +59,7 @@ div {
 }
 
 #banner {
-    background: url("regular cinnsmon roll.jpeg");
+    background: url("regular-cinnsmon-roll.jpeg");
     width: 100%;
     height: 500px;
     background-repeat: no-repeat;
@@ -80,7 +80,6 @@ div {
 #seasonal-favorites {
     text-align: center;
     font-weight: bold;
-    top: -100x;
 }
 
 .row-padding {
@@ -130,7 +129,7 @@ div {
     color: red;
 }
 
-#popular {
+.popular {
     color: lime;
 }
 
